@@ -4,7 +4,7 @@
 ## 首次收到报税信
 - 为棕色信封。
   需要下载本文件中的pdf文件。先进行阅读，初步了解报税内容。
-  但是建议登录 (Myminfi)[https://eservices.minfin.fgov.be/myminfin-web/pages/public]进行网上填报。
+  但是建议登录 [Myminfi](https://eservices.minfin.fgov.be/myminfin-web/pages/public) 进行网上填报。
   使用Ltsme方式登录最方便。itsme是手机APP，需要本地银行卡和手机号验证登录。
 - 如果没有收到税信，请等待（也许没有）。因为这是根据每个人的注册时间点，决定是否需要进行本年度的报税。
 
