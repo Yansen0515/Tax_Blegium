@@ -13,3 +13,6 @@
    收到一份简化申报的提案，如果全部是0，就不需要做任何操作。
    另外核对自己身份（是否已婚等）。如果全正确，则不需要做任何操作。
 - 如果上面两类信息中任何一类错误，请登录 [Myminfi](https://eservices.minfin.fgov.be/myminfin-web/pages/public) 进行网上填报，进行反馈即可。
+
+## 其他资料
+  其他人的报税操作说明[链接](xiaohongshu.com/discovery/item/627e7ee40000000001029156?share_from_user_hidden=true&xhsshare=WeixinSession&appuid=6130060d000000001f03fddb&apptime=1655641989)
